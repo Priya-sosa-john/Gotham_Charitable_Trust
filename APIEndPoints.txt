@@ -1,0 +1,15 @@
+###### Possible API endpoints, their purpose and HTTP request methods #######
+
+1) With Respect to volunteers
+-> Post- Volunteer details
+-> Get - Outlet details
+-> Get - Admin details
+-> Patch - His/her next working date
+
+2) With Respect to Admin
+  -> Post - Admin details
+  -> Get - Outlet details
+  -> Get - Volunteer details
+  -> Delete - Outlet details
+  -> Post- new outlet details
+  -> Post - Food and outlet details 

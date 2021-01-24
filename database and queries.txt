@@ -1,0 +1,36 @@
+Create Database charitable_trust; ########creating database
+
+
+###### Creating tables inside database#######
+
+Create table volunteer(v_id int IDENTITY(1,1) NOT NULL PRIMARY KEY,v_name varchar(20) NOT NULL,v_address varchar(30) NOT NULL,
+v_phone varchar(10) NOT NULL,v_email varchar(50) NOT NULL,v_date DATE NOT NULL);
+
+Create table admin(a_id int IDENTITY(1,1) NOT NULL PRIMARY KEY,a_name varchar(20) NOT NULL,a_address varchar(30) NOT NULL,
+a_phone varchar(10) NOT NULL,a_email varchar(50) NOT NULL);
+
+Create table outlet(o_name varchar(20) NOT NULL PRIMARY KEY,o_streetname varchar(30) NOT NULL,
+o_landmark varchar(10) NOT NULL,o_packet DEFAULT '20', o_volunteer int(4) NOT NULL);
+
+Create table food(f_id int IDENTITY(1,1) NOT NULL PRIMARY KEY,f_category varchar(20) NOT NULL,f_outlet varchar(30) NOT NULL FOREIGN KEY REFERENCES outlet(o_name),
+f_date DATE NOT NULL);
+
+####### Inserting values into the tables########
+
+INSERT INTO volunteer (v_id,v_name,v_addresss,v_phone,v_email,v_date)
+VALUES (1, 'Tom', 'Madivala',9045632215 , 'abc@gmaail.com', '2021-01-12');
+
+INSERT INTO admin (a_id,a_name,a_addresss,a_phone,a_email)
+VALUES (1, 'cruz', 'Electronic city',9078952215 , 'abc@gmaail.com');
+
+INSERT INTO outlet(o_name,o_streetname,o_landmark,o_packet,o_volunteer)
+VALUES ('ab','xyz','pqr', ,3);
+
+INSERT INTO food(f_id,f_category,f_outlet,f_date)
+VALUES (1, 'veg', 'Madivala', '2021-01-14');
+
+
+##### Required queries #######
+
+Select outlet.o_name, food.f_category from outlet FULL OUTER JOIN food ON outlet.o_name,food.f_outlet ORDER BY food.f_category DESC;
+
