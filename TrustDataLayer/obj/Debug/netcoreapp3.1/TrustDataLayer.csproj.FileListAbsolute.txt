@@ -1,0 +1,9 @@
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\bin\Debug\netcoreapp3.1\TrustDataLayer.deps.json
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\bin\Debug\netcoreapp3.1\TrustDataLayer.dll
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\bin\Debug\netcoreapp3.1\TrustDataLayer.pdb
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\obj\Debug\netcoreapp3.1\TrustDataLayer.csprojAssemblyReference.cache
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\obj\Debug\netcoreapp3.1\TrustDataLayer.AssemblyInfoInputs.cache
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\obj\Debug\netcoreapp3.1\TrustDataLayer.AssemblyInfo.cs
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\obj\Debug\netcoreapp3.1\TrustDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\obj\Debug\netcoreapp3.1\TrustDataLayer.dll
+C:\Users\prince john\source\repos\GothamCareTrust\TrustDataLayer\obj\Debug\netcoreapp3.1\TrustDataLayer.pdb

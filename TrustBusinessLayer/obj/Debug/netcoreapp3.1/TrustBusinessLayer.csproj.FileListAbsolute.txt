@@ -1,0 +1,4 @@
+C:\Users\prince john\source\repos\GothamCareTrust\TrustBusinessLayer\bin\Debug\netcoreapp3.1\TrustDataLayer.dll
+C:\Users\prince john\source\repos\GothamCareTrust\TrustBusinessLayer\obj\Debug\netcoreapp3.1\TrustBusinessLayer.csprojAssemblyReference.cache
+C:\Users\prince john\source\repos\GothamCareTrust\TrustBusinessLayer\obj\Debug\netcoreapp3.1\TrustBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\prince john\source\repos\GothamCareTrust\TrustBusinessLayer\obj\Debug\netcoreapp3.1\TrustBusinessLayer.AssemblyInfo.cs
