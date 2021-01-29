@@ -1,0 +1,66 @@
+    <!DOCTYPE html>   
+    <html>   
+    <head>  
+      
+    <title> Sign-in Page </title>  
+    <style>   
+     body {
+  background-image: url('food.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left center ;
+  background-size: cover;
+  float: left;
+  padding: 55px;
+}
+    button {   
+           background-color: DarkCyan;   
+           width: 85%;  
+            color: orange;   
+            padding: 15px;   
+            margin: 10px 0px;   
+            border: none;   
+            cursor: pointer;   
+             }   
+     input[type=text], input[type=password] {   
+            width: 85%;   
+            margin: 8px 0;  
+            padding: 12px 20px;   
+            display: inline-block;   
+            border: 2px solid green;   
+            box-sizing: border-box;   
+        }  
+     button:hover {   
+            opacity: 0.7;   
+        }   
+      a:link
+       {
+       color: red;
+        hover: black;
+        }
+            
+         
+     .logpage {   
+            padding: 20px;   
+            float:right;  
+        }   
+    </style>   
+    </head>    
+    <body>
+      <div>    
+        <center> <h1>  SIGN-IN HERE!!! </h1> </center>   
+        <form>  
+            <div class="logpage">   
+                <label>Email-Id : </label>   <br/>
+                <input type="text" placeholder="Enter Email-Id" name="username" required>  <br/>
+                <label>Password : </label>   <br/>
+                <input type="password" placeholder="Enter Password" name="password" required>  <br/>
+                <button type="submit" onClick="location.href='searchtag.html'">SIGN-IN</button>   <br/>
+                   
+                 <a href="forgotpassword.html" style="color: red">Forgot password? </a><br/>
+                 
+            </div>   
+        </form> 
+ 	   </div>
+    </body>     
+    </html>  
