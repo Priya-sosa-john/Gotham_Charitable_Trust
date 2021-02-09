@@ -1,0 +1,12 @@
+C:\Users\prince john\source\repos\FinalProject\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.deps.json
+C:\Users\prince john\source\repos\FinalProject\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.dll
+C:\Users\prince john\source\repos\FinalProject\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.pdb
+C:\Users\prince john\source\repos\FinalProject\BusinessService\bin\Debug\netcoreapp3.1\DataService.dll
+C:\Users\prince john\source\repos\FinalProject\BusinessService\bin\Debug\netcoreapp3.1\DataService.pdb
+C:\Users\prince john\source\repos\FinalProject\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.csprojAssemblyReference.cache
+C:\Users\prince john\source\repos\FinalProject\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.AssemblyInfoInputs.cache
+C:\Users\prince john\source\repos\FinalProject\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.AssemblyInfo.cs
+C:\Users\prince john\source\repos\FinalProject\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.csproj.CoreCompileInputs.cache
+C:\Users\prince john\source\repos\FinalProject\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.csproj.CopyComplete
+C:\Users\prince john\source\repos\FinalProject\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.dll
+C:\Users\prince john\source\repos\FinalProject\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.pdb
